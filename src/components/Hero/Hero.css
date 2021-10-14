@@ -1,5 +1,6 @@
 .hero{
     position: relative;
+    margin-bottom: 3em;
 }
 .hero-body{
     width: 100%;
@@ -20,7 +21,6 @@
 }
 .search-box input{
     border: none;
-    width: 30vw;
     padding: 0 2em;
 
 }
